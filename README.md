@@ -1,6 +1,6 @@
 #HeisenbergHex (HEX)
 
-![wallet](http://i.imgur.com/3fv57tc.png)
+![wallet](http://i.imgur.com/9ITgiXB.png)
 
 30 second block timetables
 5 confirmations for transactions (2.5 mins)
