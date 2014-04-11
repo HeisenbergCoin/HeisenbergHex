@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("HXC");
-    case mBTC: return QString("mHXC");
-    case uBTC: return QString::fromUtf8("μHXC");
+    case BTC: return QString("HEX");
+    case mBTC: return QString("mHEX");
+    case uBTC: return QString::fromUtf8("μHEX");
     default: return QString("???");
     }
 }
