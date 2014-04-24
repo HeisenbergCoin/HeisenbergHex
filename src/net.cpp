@@ -1151,7 +1151,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
     {"heisenbergcoin", "cbx13.no-ip.info"},
-    {"ec2node", "54.213.143.65"},
+    {"hex.quicpools.com", "54.197.209.63"},
 };
 
 void ThreadDNSAddressSeed(void* parg)
